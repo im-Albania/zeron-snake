@@ -1,4 +1,3 @@
-Sure, here's a sample README for your Snake game project on GitHub:
 
 ---
 
@@ -50,5 +49,3 @@ Contributions are welcome! If you find a bug or have an idea for an improvement,
 This Snake game is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize it based on the specific features and details of your implementation.

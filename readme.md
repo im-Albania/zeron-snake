@@ -34,8 +34,8 @@ A simple Snake game implemented in Bash without external dependencies. Play the 
 2. Run the game:
 
    ```bash
-   cd snake-game
-   ./snake.sh
+   cd zeron-snake
+   ./script.sh
    ```
 
 3. Enjoy playing the Snake game in your terminal!

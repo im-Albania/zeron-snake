@@ -28,7 +28,7 @@ A simple Snake game implemented in Bash without external dependencies. Play the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/im-Albania/zeron-snake.git
    ```
 
 2. Run the game:
